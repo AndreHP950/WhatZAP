@@ -11,6 +11,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    word-break: break-all;
     background-image: url(https://us.123rf.com/450wm/yamabikay/yamabikay1705/yamabikay170500039/77519356-green-felt-texture-for-poker-an-casino-theme-seamless-square-background-tile-ready-high-resolution-p.jpg?ver=6);
 }
 
